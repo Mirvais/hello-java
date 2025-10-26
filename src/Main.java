@@ -4,7 +4,6 @@ public class Main {
         System.out.println("Hello, world!");
         System.out.println("bruhggg\r\n" + //
         "        there is something in the air\r\n" + //
-        "        now trying to test the app");
         "        now trying to test the app
         now I wanna go home");
         
