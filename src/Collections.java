@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.function.*;
 
-public class Main {
+public class Collections {
 
     public static void main(String[] args) {
 
