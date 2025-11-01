@@ -1,8 +1,10 @@
 import java.util.*;
-import java.util.concurrent.*;
 import java.util.function.*;
+import java.util.Collections;
+import java.util.Comparator;
 
-public class Collections {
+
+public class Collection_class {
 
     public static void main(String[] args) {
 

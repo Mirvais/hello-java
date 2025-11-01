@@ -129,7 +129,12 @@ public class Demos {
             System.out.println(sum(matrix));
         }
 
-        /** Sum all numbers in a matrix. */
+        /** Sum all numbers in a matrix. 
+            m is an array whose elements are themselves int[].
+            m.length is the number of rows (the number of inner arrays stored in m).
+            m[i] is the i-th row, i.e., an int[].
+            m[i].length is the number of columns in that specific row.
+        */
         public static int sum(int[][] m) {
             int sum = 0;
             for (int i = 0; i < m.length ; i++) {
